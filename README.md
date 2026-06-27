@@ -4,8 +4,6 @@ Prepwise is a full-stack web application that helps users prepare for job interv
 
 This project was built as a hands-on way to learn how to integrate real-time voice AI agents with a modern Next.js stack — covering authentication, serverless backend logic, LLM-powered content generation, and structured AI feedback scoring.
 
-> Built by following [JavaScript Mastery's](https://www.youtube.com/@javascriptmastery/videos) project tutorial, and used as a learning project to understand voice-AI integration, Next.js App Router architecture, and LLM-based evaluation pipelines.
-
 ---
 
 ## 🚀 Live Project
